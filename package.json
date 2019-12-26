@@ -1,0 +1,22 @@
+{
+  "name": "beritamitsubishi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "keywords": [],
+  "author": "Fergus Hagaswara",
+  "license": "ISC",
+  "dependencies": {
+    "micro": "^9.3.4",
+    "micro-fork": "^1.0.0",
+    "node-fetch": "^2.6.0",
+    "x-ray": "^2.3.4"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
+}
